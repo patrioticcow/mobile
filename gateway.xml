@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gateway xmlns="http://www.zend.com/gateway/1.0">
+    <route handler="Routes::getCustomers" method="GET" url="/customers"/>
+</gateway>
